@@ -1,0 +1,6 @@
+/**/.vs
+/**/*.user
+/**/*.datasource
+/**/packages
+/**/obj
+/**/bin
